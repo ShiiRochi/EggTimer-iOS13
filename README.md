@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Egg Timer
+# Egg Timer [Completed]
 
 ## Our Goal
 
